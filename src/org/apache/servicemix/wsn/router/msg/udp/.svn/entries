@@ -1,0 +1,76 @@
+8
+
+dir
+866
+svn://10.109.253.8/Wsn/wsn-core/src/org/apache/servicemix/wsn/router/msg/udp
+svn://10.109.253.8
+
+
+
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+
+svn:special svn:externals svn:needs-lock
+
+MsgSubs.java
+file
+
+
+
+
+2014-03-03T02:17:21.078950Z
+1e7f83bb515261dcd3807b757d2077e7
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+MsgGroup.java
+file
+
+
+
+
+2014-03-03T02:17:20.900940Z
+6ac2db96c70e05c3150f4988a65f88b1
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+MsgNewBroker.java
+file
+
+
+
+
+2014-03-03T02:17:21.006946Z
+23a72d5bf2ff0af30219479af19e0a58
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+MsgLost.java
+file
+
+
+
+
+2014-03-03T02:17:20.902940Z
+04a32083114faeebc024d137df378172
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+MsgHello.java
+file
+
+
+
+
+2014-03-03T02:17:20.901940Z
+e53916087f0de939c9bf5176fdb3aad2
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+

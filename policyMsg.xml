@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WsnPolicyMsgs>
+  <policyMsg targetTopic="all:boiler">
+    <array as="targetGroups">
+      <TargetGroup allMsg="true" name="G1"/>
+      <TargetGroup allMsg="true" name="G4"/>
+    </array>
+  </policyMsg>
+<policyMsg targetTopic="all:sylvia">
+    <array as="targetGroups">
+      <TargetGroup allMsg="true" name="G9"/>
+      <TargetGroup allMsg="true" name="G2"/>
+    </array>
+  </policyMsg>
+<policyMsg targetTopic="all:alarm:alarm2">
+    <array as="targetGroups">
+      <TargetGroup allMsg="true" name="G1"/>
+      <TargetGroup allMsg="true" name="G9"/>
+    </array>
+  </policyMsg>
+<policyMsg targetTopic="all:alarm:alarm1:alarm11">
+    <array as="targetGroups">
+      <TargetGroup allMsg="true" name="G2"/>
+      <TargetGroup allMsg="true" name="G4"/>
+    </array>
+  </policyMsg>
+</WsnPolicyMsgs>

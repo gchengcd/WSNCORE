@@ -1,0 +1,64 @@
+8
+
+dir
+866
+svn://10.109.253.8/Wsn/wsn-core/src/org/apache/servicemix/wsn/router/mgr/base
+svn://10.109.253.8
+
+
+
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+
+svn:special svn:externals svn:needs-lock
+
+AState.java
+file
+
+
+
+
+2014-03-10T03:04:16.133584Z
+46578344e99956f5cd8350ce2428a24f
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+MsgSubsForm.java
+file
+
+
+
+
+2014-03-03T02:17:21.994003Z
+23cad40a7e9977fe48bd3ec1bcf3fe18
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+AConfiguration.java
+file
+
+
+
+
+2014-03-03T02:17:21.899997Z
+e843c62b14a2810c660b7651acc06afe
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
+SysInfo.java
+file
+
+
+
+
+2014-03-03T02:17:22.015004Z
+3e17060dcc45af550f5dfabd5a1ea480
+2014-03-11T01:26:50.078154Z
+866
+Wsn
+
